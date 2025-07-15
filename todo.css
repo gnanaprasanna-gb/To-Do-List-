@@ -1,0 +1,62 @@
+
+.todolist{
+    background-color: rgb(201, 227, 227);
+    padding: 50px;
+    margin: 70px;
+    color: rgb(3, 19, 32);
+    text-align: center;
+    align-items: center;
+    font-style: oblique;
+    line-height: 1.6;
+
+}
+
+.title{
+    background-origin: padding-box;
+    background-color: rgb(52, 117, 115);
+    width: 50%;
+    border-radius: 20%;
+    border: 2px rgb(88, 29, 29) solid;
+    box-shadow: 0px 20px 50px;
+    margin: 0px auto;
+    text-align: center;
+    align-items: center;
+}
+
+h3{
+    font-size: large;
+    font-style: oblique;
+    background-origin: padding-box;
+    background-color: rgb(102, 201, 199);
+    width: 50%;
+    border-radius: 10%;
+    border: 2px rgb(140, 119, 212) solid;
+    box-shadow: 0px 20px 50px;
+    line-height: 2;
+    margin: 30px auto;
+    justify-content: space-evenly;
+    
+    text-align: center;
+    align-items: center;
+    
+
+
+}
+
+.box{
+    margin: 60px auto;
+}
+
+#submit {
+    font-style: italic;
+    font-weight: 600;
+    background-color: rgb(166, 231, 231);
+
+    
+}
+#addTask{
+    font-style: italic;
+    font-weight: 600;
+    background-color: rgb(166, 231, 231);
+
+}
